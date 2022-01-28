@@ -1,0 +1,3 @@
+com/teacher/rest/client/models/StudentDTO.class
+com/teacher/rest/client/TeacherService.class
+com/teacher/rest/client/TeacherResource.class
